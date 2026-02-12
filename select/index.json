@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "お前の笑顔オレが守るからSONG",
+  "base_artist": "キャラメルペッパーズ",
+  "createdAt": "2026-02-12T13:59:04.262217Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "お前の笑顔オレが守るからSONG",
+      "artist": "キャラメルペッパーズ",
+      "has_synced": false,
+      "path": "select/pl_01_お前の笑顔オレが守るからSONG_キャラメルペッパーズ.txt"
+    }
+  ]
+}
